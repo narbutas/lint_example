@@ -1,0 +1,1 @@
+# Lint GitHub Actions example
